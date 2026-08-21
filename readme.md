@@ -17,8 +17,9 @@ This repository contains the final code for Modules 6 to 9, which involves mathe
 
 To run the code, ensure you have the required dependencies installed. You can install them using:
 
-bash
+```bash
 pip install numpy pandas scikit-learn tensorflow torch
+```
 
 ## Usage
 
